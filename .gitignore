@@ -1,0 +1,6 @@
+flipkart_reviews/pickled/
+flipkart_reviews/plots/
+flipkart_reviews/__pycache__/
+flipkart_reviews/.DS_Store
+flipkart_reviews/datasets/*
+

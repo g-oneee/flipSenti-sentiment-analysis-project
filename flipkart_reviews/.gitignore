@@ -1,0 +1,6 @@
+pickled/
+plots/
+__pycache__/
+.DS_Store
+datasets/*
+
