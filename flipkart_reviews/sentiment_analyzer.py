@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Author: pranit
-# @Date:   2018-04-20 09:59:48
-# @Last Modified by:   pranit
-# @Last Modified time: 2018-05-17 02:16:39
+
 
 from time import time
 import ast

@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-# @Author: pranit
-# @Date:   2018-05-16 11:00:08
-# @Last Modified by:   pranit
-# @Last Modified time: 2018-05-17 05:28:57
-
 from sentiment_analyzer import SentimentAnalyzer
 from data_visualizer import DataVisualizer
 from utilities import Utility
